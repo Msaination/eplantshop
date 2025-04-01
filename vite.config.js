@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
     base: "/paradise-nursery-shopping-cart-app",
     plugins: [react()],
-    base:"/e-plant
+    base:"/e-plant/"
 })
